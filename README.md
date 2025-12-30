@@ -7,7 +7,7 @@
 
 <a id="readme-top"></a>
 
-<h1 align="center">🤖 KamiAI <sup>(BETA)</sup></h1>
+<h1 align="center">KamiAI <sup>(BETA)</sup></h1>
 
 <p align="center">
   <b>Next-Gen • Local-First • Extreme Customization AI Studio</b>
