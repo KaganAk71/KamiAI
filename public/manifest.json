@@ -1,0 +1,50 @@
+{
+    "name": "KamiAI Local Intelligence",
+    "short_name": "KamiAI",
+    "description": "Your private, local-first AI automation studio.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#0ea5e9",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "categories": [
+        "productivity",
+        "utilities",
+        "developer"
+    ],
+    "screenshots": [
+        {
+            "src": "/screenshot-desktop.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Home Screen"
+        }
+    ]
+}
