@@ -1,0 +1,60 @@
+<locale name="Türkçe (Toplum)">
+    <strings>
+        <welcome>Tekrar hoş geldin</welcome>
+        <overview>Genel Bakış</overview>
+        <trainingHub>Eğitim Merkezi</trainingHub>
+        <testModel>Modeli Test Et</testModel>
+        <logicFlows>Mantık Akışları</logicFlows>
+        <whiteboard>Beyaz Tahta</whiteboard>
+        <settings>Ayarlar</settings>
+        <visionStudio>Vision Stüdyosu</visionStudio>
+        <systemStatus>Sistem Durumu</systemStatus>
+        <online>Çevrimiçi</online>
+        <offline>Çevrimdışı</offline>
+        <premiumFeel>Yapay zeka ajanlarınız verimli çalışıyor.</premiumFeel>
+        <activeModels>Aktif Modeller</activeModels>
+        <deviceStatus>Cihaz Durumu</deviceStatus>
+        <failedToFetch>Model Yüklenemedi</failedToFetch>
+        <retry>Tekrar Dene</retry>
+        <match>Eşleşme</match>
+        <noMatch>Eşleşme Yok</noMatch>
+        <samples>örnek</samples>
+        <addClass>Yeni Grup Ekle</addClass>
+        <buildModel>Modeli Paketle</buildModel>
+        <inferenceSandbox>Çıkarım Laboratuvarı</inferenceSandbox>
+        <runModel>Testi Başlat</runModel>
+        <stopTest>Testi Durdur</stopTest>
+        <topPrediction>En İyi Tahmin</topPrediction>
+        <confidence>Güven Oranı</confidence>
+        
+        <systemSettings>SİSTEM AYARLARI</systemSettings>
+        <configureAgent>KamiAI ajanınızı ve sistem tercihlerinizi yapılandırın.</configureAgent>
+        <premiumActive>Premium Aktif</premiumActive>
+        <syncNote>Tüm değişiklikler yerel kasanızla otomatik olarak senkronize edilir.</syncNote>
+        <forceSync>Senkronize Et</forceSync>
+        <identity>Kimlik</identity>
+        <aiCore>AI Çekirdeği</aiCore>
+        <achievements>Başarımlar</achievements>
+        <systemData>Sistem ve Veri</systemData>
+        <identityAccess>Kimlik ve Erişim</identityAccess>
+        <operatorName>Operatör Adı</operatorName>
+        <knowledgeTier>Bilgi Seviyesi</knowledgeTier>
+        <juniorDev>Junior Geliştirici (Standart)</juniorDev>
+        <seniorArch>Kıdemli AI Mimarı (Gelişmiş)</seniorArch>
+        <computeEngine>Hesaplama Motoru</computeEngine>
+        <hyperparameters>Hiperparametreler</hyperparameters>
+        <restoreDefaults>Varsayılana Dön</restoreDefaults>
+        <visualTheme>Görsel Tema</visualTheme>
+        <localization>Yerelleştirme ve Dil</localization>
+        <audioVisual>Sesli ve Görsel Geri Bildirim</audioVisual>
+        <extremeCustom>Ekstrem Özelleştirme</extremeCustom>
+        <dangerZone>Tehlikeli Bölge</dangerZone>
+        <systemFormat>Sistemi Formatla</systemFormat>
+        <voiceInteractions>Sesli Etkileşimler</voiceInteractions>
+        <sfxAudio>Ses Efektleri</sfxAudio>
+        <headsupAlerts>Anlık Bildirimler</headsupAlerts>
+        <lightMode>Aydınlık Tema</lightMode>
+        <darkMode>Gece Derinliği</darkMode>
+        <systemSync>Sistem Uyumlu</systemSync>
+    </strings>
+</locale>
