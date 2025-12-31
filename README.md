@@ -25,16 +25,16 @@
   <img src="https://img.shields.io/github/license/KaganAk71/KamiAI?style=for-the-badge&color=7CFF00">
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="public/icon-192x192.png" width="120" />
-</p>
+</p> 
 
----
+-->
 
 ## Preview / Önizleme
 
 <p align="center">
-  <img src="public/screenshot-settings-theme.png" alt="KamiAI Screenshot" width="90%">
+  <img src="Screenshots/image.png" alt="KamiAI Screenshot" width="90%">
 </p>
 
 ---
